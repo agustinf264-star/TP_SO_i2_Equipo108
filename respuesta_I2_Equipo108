@@ -17,3 +17,6 @@ En GitHub, los forks se sincronizan con el repositorio original, no entre sí.
 c) Al igual que la pregunta anterior, GAMMA no puede actualizar su fork al estado del ALFA, por lo menos no de forma directa. 
 Una forma seria con los pull request: Cada colaborador se asegura de que su fork esté actualizado. 
 Luego crean un pull request desde su fork al repositorio original. El propietario revisa el pull request y lo fusiona si los cambios son correctos. 
+
+d) No, ya que el proceso fusiona los cambios del repositorio original con las ediciones locales. 
+Pero se deben usar los comandos de Git adecuados, para integrar las actualizaciones sin sobrescribir nada. 
