@@ -20,3 +20,13 @@ Luego crean un pull request desde su fork al repositorio original. El propietari
 
 d) No, ya que el proceso fusiona los cambios del repositorio original con las ediciones locales. 
 Pero se deben usar los comandos de Git adecuados, para integrar las actualizaciones sin sobrescribir nada. 
+
+E) 1) git clone URL : para descargar el repositorio 
+   2) cd repo : para ingresar a la carpeta del repositorio
+   3) touch : para crear el archivo
+   4) ls-l : para verificar el contenido
+   5) git add : para agregar el archivo
+   6) git commit -m : para confimar los cambios
+   7) git push : para subir el archivo al git 
+
+Tomas Coppola , Fernández Agustín, Reyes Frederick
